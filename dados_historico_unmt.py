@@ -3,7 +3,7 @@ import os
 
 # Caminho da pasta
 pasta = "C:\\Tools\\pentaho\\Repositorio\\LeiturasTempoReal\\HISTORICO CONSORCIO\\LEITURAS\\UNMT\\Gerados"
-pasta_dest = r"\\copanet04\\nfsobiee\\Exp_Leituras"
+pasta_dest = r"\\pasta\\da\\rede"
 
 
 # Nome do arquivo de saída
